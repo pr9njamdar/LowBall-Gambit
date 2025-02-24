@@ -8,7 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SelectCards.unity
     guid: de93e769b04a8134488057b26de86eee
+  - enabled: 1
+    path: Assets/Scenes/CreateRoom.unity
+    guid: 32ffcc8e04f475544892e9d2914b90ea
   m_configObjects: {}
